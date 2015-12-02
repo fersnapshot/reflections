@@ -1,0 +1,13 @@
+1) What happens when you initialize a repository? Why do you need to do it?
+¿Qué sucede cuando se inicializa un repositorio? ¿Por qué necesita hacerlo?
+
+	Se crea una carpeta oculta .git
+	Xq en esta carpeta oculta haremos el seguimiento de los commits
+
+
+2) How is the staging area different from the working directory and the repository? What value do you think it offers?
+¿Cómo es de diferente el área de ensayo del directorio de trabajo y del repositorio? ¿Qué valor crees que ofrece?
+
+	Es dónde están los archivos que estamos "siguiendo", en el directorio están todos los archivos y en el repositorio los commit.
+	Nos permite especificar cuales queremos seguir y cuales de los que seguimos queremos commitear.
+
