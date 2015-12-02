@@ -1,0 +1,44 @@
+1) How did viewing a diff between two versions of a file help you see the bug that was introduced?
+¿Cómo fue la visualización de un diff entre dos versiones de un archivo de ayuda que se ve el error que se introdujo?
+
+	Pues la diferencia entre revisar mas de 1000 líneas de código a sólo 8
+
+
+2) How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+¿Cómo tener fácil acceso a toda la historia de un archivo hará un programador más eficiente en el largo plazo?
+
+	Poder ver como se han realizado mejoras que se pueden aplicar a otros archivos
+
+
+3) What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+¿Qué cree usted que son los pros y los contras de elegir manualmente cuando para crear un commit, como lo hace en Git, vs tener versiones guardan automáticamente, como Google docs hace?
+
+	En el caso de archivos de programación, está claro que no va a hacer un commit de una funcionalidad que NO FUNCIONA, mejor hacerla manualmente cuando ya está ok.
+
+
+4) Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+¿Por qué crees que algunos sistemas de control de versiones, como Git, permiten el ahorro de varios archivos en un solo commit, mientras que otros, como Google Docs, tratan cada archivo por separado?
+
+	Git trabaja agrupaciones de archivos (proyectos) y Google Docs con el archivo que tienes abierto.
+
+
+5) How can you use the commands git log and git diff to view the history of files?
+¿Cómo se puede utilizar los comandos git log y git diff para ver el historial de los archivos?
+
+    git log - para echar un vistazo general de todos los commits realizados
+    git diff - dados 2 commits podemos ver lo que han cambiado
+
+
+6) How might using version control make you more confident to make changes that could break something?
+¿Cómo podría usar el control de versiones que se sienta más confiado para hacer cambios que podrían romper algo?
+
+    Partiendo de un commit puedo hacer cualquier cambio xq siempre tengo la posibilidad de volver a él.
+
+
+7) Now that you have your workspace set up, what do you want to try using Git for?
+Ahora que ha configurado el espacio de trabajo, ¿qué es lo que quieres intentar usar con Git?
+
+    Toooodos los proyectos
+
+
+
