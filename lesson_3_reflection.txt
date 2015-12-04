@@ -1,4 +1,9 @@
 1) When would you want to use a remote repository rather than keeping all your work local?
 ¿Cuándo desea utilizar un repositorio remoto en lugar de mantener todo su trabajo local?
 
-    
+	Para compartir o como copia de seguridad
+
+2) Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+¿Por qué puede querer pull-tirar siempre los cambios manualmente en lugar de tener Git mantenerse automáticamente actualizados con el repositorio remoto?
+
+	Para subir los cambios que y cuando me plazcan, y no subir, por ejemplo, una rama experimental
