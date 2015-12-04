@@ -40,6 +40,11 @@
 
 	Es la suma-unión de las ramas
 
+7) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+¿Cuáles son los pros y los contras de Git de fusión automática vs. siempre haciendo fusiones de forma manual?
+
+
+
 
 
 
