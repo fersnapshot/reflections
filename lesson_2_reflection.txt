@@ -8,6 +8,51 @@
 2) How is the staging area different from the working directory and the repository? What value do you think it offers?
 ¿Cómo es de diferente el área de ensayo del directorio de trabajo y del repositorio? ¿Qué valor crees que ofrece?
 
-	Es dónde están los archivos que estamos "siguiendo", en el directorio están todos los archivos y en el repositorio los commit.
+	Es dónde están los archivos que vamos a "commitear", en el directorio están todos los archivos y en el repositorio los commit.
 	Nos permite especificar cuales queremos seguir y cuales de los que seguimos queremos commitear.
+
+
+3) How can you use the staging area to make sure you have one commit per logical change?
+¿Cómo se puede utilizar el área de preparación para asegurarse de hacer un commit por cambio lógico?
+
+	"Poner" en la staging area sólo los files del cambio lógico.
+
+
+4) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+¿Cuáles son algunas situaciones en las que las ramas serían útiles para mantener su historial organizado? ¿Cómo ayudarían las ramas?
+
+	- http://danielkummer.github.io/git-flow-cheatsheet/index.es_ES.html
+	- ramas 'master' y 'develop'
+	- corregir un bug
+	- probar una característica experimental
+	- Equipo de trabajo:
+		a) cada uno una rama y hacer los merges por consenso del equipo
+		b) cada uno una rama y uno del equipo está con las 'cosas' comunes en 'develop'
+	- ...
+
+5) How do the diagrams help you visualize the branch structure?
+¿Cómo los diagramas ayudan a visualizar la estructura de las ramas?
+
+	Una imagen vale más que mil palabras
+
+6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+¿Cuál es el resultado de la fusión de dos ramas? ¿Por qué lo representamos en el diagrama de la manera que lo hacemos?
+
+	Es la suma-unión de las ramas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
